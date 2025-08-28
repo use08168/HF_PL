@@ -8,8 +8,15 @@
 - 영어 한글 번역 : https://huggingface.co/facebook/m2m100_418M
 - 사용 단어 데이터 셋 : https://www.kaggle.com/datasets/anneloes/wordgame?resource=download&select=Concreteness_english.csv
 
-### 수정
-스트림릿의 작동이 원활하지 않아 급하게 주피터 노트북 환경에서도 작동하게 변경했습니다.
+# 수정
+### 스트림릿의 작동이 원활하지 않아 급하게 주피터 노트북 환경에서도 작동하게 변경했습니다.
+### 최종 파일은 funfunfun_final.ipynb로 설치하시면 됩니다.
+
+##### 작동 순서
+1. funfunfun_final.ipynb 다운
+2. Concreteness_english.csv 다운
+3. 작동
+
 
 ##### 작동 예시
 
